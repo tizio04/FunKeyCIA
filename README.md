@@ -17,14 +17,14 @@ Only the title id is needed, because the encTitleKeys.bin contains the keys.
 `FunKeyCIA.py -keyfile -title XXXXXXXXXXXXXXXX`
 
 
-* Download a game, using the latest encTitleKeys.bin file from 3ds.nfshost.com.
+* Download a game, using the latest encTitleKeys.bin file from 3ds.titlekeys.gq.
 The will save the key file to the same folder as FunKeyCIA.py, overwriting any file with the same name.
 Only the title id is needed because the encTitleKeys.bin contains the keys.
 
 `FunKeyCIA.py -nfskeyfile -title XXXXXXXXXXXXXXXX`
 
 * Give multiple title ids. Only works when using keyfiles, not when you give the key yourself.
-When using keyfiles, you can download multiple things, this will get the latest keyfile from 3ds.nfshost.com and download 3 games:
+When using keyfiles, you can download multiple things, this will get the latest keyfile from 3ds.titlekeys.gc and download 3 games:
 
 `FunKeyCIA.py -nfskey -title XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX`
 
